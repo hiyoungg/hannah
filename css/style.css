@@ -47,12 +47,13 @@ ul li .active a{
     margin:auto
 }
 .butterfly img {
-    position:relative;
-    top: -30px;
-    left: -30px;
+    display: block;
     float: left;
-    width:400px;
-    height: auto;
+    width: 400px;
+    position: relative;
+    top: -30%;
+    left: -3%;
+
 }
 .profile img {
     position: relative;
